@@ -17,7 +17,7 @@ config = {
             ('xeon32_week', {'queue': 'slurm',
                             'cores': 32,
                             'memory': '4096G',}),
-            ('xeon32_week', {'queue': 'slurm',
+            ('xeon32_4096', {'queue': 'slurm',
                             'cores': 32,
                             'memory': '4096G',}),
              ('xeon40', {'queue': 'slurm',
